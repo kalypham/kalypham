@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaly
 
-<!--
-**kalypham/kalypham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering (CE) student**  
+💻 Love coding • Love logic • Love building things
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📚 Currently studying **Computer Engineering**
+- 🧠 Interested in **C/C++, Digital Logic, Python**
+- ❤️ Motto: *“Learn by building, fail fast, improve faster”*
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C / C++
+- **Tools:** VS Code, Git, GitHub
+- **Areas:** Logic Design, Programming, Embedded Basics
+
+---
+
+## 🌱 Currently Learning
+- Digital Logic Design
+- Low-level programming
+
+---
+
+✨ Thanks for visiting my GitHub!
